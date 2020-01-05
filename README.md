@@ -58,4 +58,4 @@ Run the following command:
 rackup
 ```
 
-
+To view the app navigate to ```localhost:9393/bookmarks```.
